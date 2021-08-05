@@ -1,6 +1,6 @@
 # [git-kraken.netlify.app](https://git-kraken.netlify.app/)
 
-# \[EN DESARROLLO\]
+![](https://user-images.githubusercontent.com/68760595/128291373-36569b4d-be47-4fce-b967-c28e3830f315.PNG)
 
 ## Project setup
 
